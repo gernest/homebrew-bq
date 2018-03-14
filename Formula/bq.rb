@@ -1,9 +1,9 @@
 class Bq < Formula
   desc "zero hype high performance qrcode service"
   homepage "https://bq.co.tz"
-  url "https://github.com/gernest/bq/releases/download/v0.1.22/bq_0.1.22_darwin_amd64.tar.gz"
-  version "0.1.22"
-  sha256 "770ecd67e6119926fe2d54f2cbb88b16b1cc6ca5f97ac53e9c285f3590be2e1e"
+  url "https://github.com/gernest/bq/releases/download/v0.1.23/bq_0.1.23_darwin_amd64.tar.gz"
+  version "0.1.23"
+  sha256 "ddf83b6ff02a46bc0c6f4e7edbc0c126f2c481151eecfba524cd6ccc99ce3f9a"
 
   def install
     bin.install "bq"
